@@ -8,4 +8,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <ChineseLanguageMarketDashboard />
   </React.StrictMode>,
 )
-
